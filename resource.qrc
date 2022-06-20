@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/FIAL_Board.png</file>
+        <file>img/red.png</file>
+        <file>img/yellow.png</file>
+    </qresource>
+</RCC>
